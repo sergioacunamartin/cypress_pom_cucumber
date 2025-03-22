@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Sergio",
+      "price": 100,
+      "date": "2023-10-01"
+    },
+    {
+      "name": "Manuel",
+      "price": 150,
+      "date": "2023-10-02"
+    },
+    {
+      "name": "Pablo",
+      "price": 200,
+      "date": "2023-10-03"
+    },
+    {
+      "name": "Paco",
+      "price": 250,
+      "date": "2023-10-04"
+    },
+    {
+      "name": "Jonas",
+      "price": 300,
+      "date": "2023-10-05"
+    },
+    {
+      "name": "Celia",
+      "price": 350,
+      "date": "2023-10-06"
+    },
+    {
+      "name": "Ana",
+      "price": 400,
+      "date": "2023-10-07"
+    },
+    {
+      "name": "Jorge",
+      "price": 450,
+      "date": "2023-10-08"
+    },
+    {
+      "name": "Isabel",
+      "price": 500,
+      "date": "2023-10-09"
+    }
+  ]
