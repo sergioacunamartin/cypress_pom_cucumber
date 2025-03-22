@@ -5,7 +5,7 @@ Este repositorio contiene una serie de pruebas automatizadas utilizando Cypress 
 ## Contenido
 
 ### Ejercicio 1: Buttons
-- **three buttons options**
+- **Three buttons options**
 - **One Click**
 - **Double Click**
 - **Click on Right click me button**
