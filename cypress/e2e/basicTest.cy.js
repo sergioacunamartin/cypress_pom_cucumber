@@ -1,4 +1,4 @@
-describe('Ejercicios Básicos Módulo 1', () => {
+describe('Basic tests', () => {
   beforeEach('Visitar la página web', () => {
       cy.visit('https://commitquality.com/practice-general-components');
   });
