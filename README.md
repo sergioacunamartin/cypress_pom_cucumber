@@ -2,7 +2,7 @@
 
 Este repositorio contiene una serie de pruebas automatizadas utilizando Cypress para validar componentes básicos de una aplicación web.
 
-## Contenido
+## Archivo basicTest.js
 
 ### Ejercicio 1: Buttons
 - **Three buttons options**
