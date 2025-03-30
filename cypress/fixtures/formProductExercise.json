@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Roberto",
+    "price": 130,
+    "date": "2002-10-03"
+  },
+  {
+    "name": "Nadia",
+    "price": 350,
+    "date": "2013-11-22"
+  },
+  {
+    "name": "Luis",
+    "price": 210,
+    "date": "2003-12-03"
+  }
+]
