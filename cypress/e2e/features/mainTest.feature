@@ -21,7 +21,7 @@ Scenario: Verify that I can go to product details without add the product to the
   And I check that the url include the endpoint "cart.html"
   And I check that the element with data-test "title" should contains "Your Cart"
   And I check that body not contain the text "Sauce Labs Bolt T-Shirt"
-
+@smoke
 Scenario: Verify sorting by price
   Given I check that the element with data-test "active-option" should contains "Name (A to Z)"
   And I check that the product at position "first" in the list contains "Sauce Labs Backpack"

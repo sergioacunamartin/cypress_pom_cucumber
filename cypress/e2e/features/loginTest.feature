@@ -16,7 +16,8 @@ Scenario: Verify that the message "Username is required" appears when submitting
   When I click on the button with data-test "login-button"
   And I check that the element with data-test "error" should "be.visible"
   Then I check that the element with data-test "error" should contains "Epic sadface: Username is required"
-
+  
+@smoke
 Scenario: Verify that the message "Username is required" appears when submitting without a username and incorrect password.
   Given I check that the element with data-test "error" should "not.exist"
   And I type in the text box with data test "password" the text "incorrectPass"
