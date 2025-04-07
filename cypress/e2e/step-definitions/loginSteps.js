@@ -38,11 +38,3 @@ Given("I type the user name {string}", (user) => {
  Given("I verified that all the accepted usernames are in the element with data-test {string}", (elementByDataTest) => {
   loginPage.checkUserNames(elementByDataTest);
 });
-
-
-
-
-
-
-
-

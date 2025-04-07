@@ -24,4 +24,12 @@ e2e: {
   añade la ruta con la extensión separada con una , todo dentro de []
   */
   },
+  numTestsKeptInMemory:10,
+  defaultCommandTimeout: 10000,
+  experimentalStudio: false,
+  failOnStatusCode: false,
+  env: {
+    snapshotOnly: true,
+    requestMode: true
+  },
 });
