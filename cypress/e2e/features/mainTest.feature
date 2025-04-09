@@ -33,5 +33,3 @@ Scenario: Verify sorting by price
   Then I check that the product at position "first" in the list contains "7.99"
   And I check that the product at position "last" in the list contains "Sauce Labs Fleece Jacket"
   Then I check that the product at position "last" in the list contains "49.99"
-  
-
