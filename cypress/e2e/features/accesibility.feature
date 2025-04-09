@@ -1,3 +1,4 @@
+@regression @accesibility
 Feature: Accesibility tests
 
   Background: Visit and login with valid credencials
