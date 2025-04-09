@@ -1,1 +1,4 @@
 node_modules/
+cypress/e2e/features/testing.features
+cypress/reports
+cypress/screenshots
